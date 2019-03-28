@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MCHO</string>
+    <string name="desc_name">description</string>
+    <string name="avatar_name">avatar</string>
+    <string name="mustnotzero">Quantity must not be zero</string>
+    <string name="enterquantity">Please enter a quantity</string>
+    <string name="login">Authentication</string>
+    <string name="passworderror">Password is required</string>
+    <string name="usernameerror">Username is required</string>
+    <string name="emptystocks">You stock is empty</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
